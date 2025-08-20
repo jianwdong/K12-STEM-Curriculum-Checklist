@@ -694,17 +694,9 @@ A rigorous, integrated sequence of courses. Dual enrollment will likely be requi
 ## 🤝 Contributing
 
 This curriculum is open for community input and improvement. Ways to contribute:
+- **Discussions**: Suggest improvements, or propose new topics
 
-- **Submit Issues**: Report errors, suggest improvements, or propose new topics
-- **Pull Requests**: Submit specific content additions or corrections
-- **Discussions**: Share experiences implementing parts of this curriculum
-- **Translations**: Help translate this curriculum into other languages
 
-## 📞 Questions & Support
-
-- **Educational Consultations**: Contact for curriculum implementation guidance
-- **Adaptations**: Suggestions for adapting to different educational contexts
-- **Assessment Tools**: Development of assessment rubrics and evaluation methods
 
 ## 📄 License
 
