@@ -1,6 +1,6 @@
 ---
 title: "K-12 STEM-Focused Curriculum Checklist (Detailed)"
-author: "Jian W Dong, MD, MS"
+author: "Jian W Dong"
 format: 
   html:
     toc: true
