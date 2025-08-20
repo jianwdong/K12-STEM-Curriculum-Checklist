@@ -680,14 +680,14 @@ A rigorous, integrated sequence of courses. Dual enrollment will likely be requi
 
 ### Grade 12: Collegiate Foundations
 #### Mathematics: Post-Calculus Topics
-- [ ] **Introductory Linear Algebra:** Vectors, matrices, determinants, vector spaces, eigenvalues.
-- [ ] **Differential Equations:** First and second-order ODEs.
-- [ ] **Matrix Calculus:** Introduction to matrix derivatives and the chain rule for matrix derivatives.
+- [ ] **Introductory Linear Algebra:** e.g. Vectors, matrices, determinants, vector spaces, eigenvalues.
+- [ ] **Differential Equations:** e.g. First and second-order ODEs.
+- [ ] **Matrix Calculus:** e.g. Introduction to matrix derivatives and the chain rule for matrix derivatives.
 #### Probability & Statistics
 - [ ] **AP Statistics:** Comprehensive course on data collection, analysis, probability, and inference.
 #### Science: Advanced Applications
 - [ ] **AP Physics C:** Electricity and Magnetism
-- [ ] **Advanced Science Elective:** Based on interest, such as Organic Chemistry or Genetics.
+- [ ] **Advanced Science Elective:** Based on interest, such as Data Structures and Algorithm.
 
 ---
 
