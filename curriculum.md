@@ -1,17 +1,33 @@
----
-title: "K-12 STEM-Focused Curriculum Checklist (Detailed)"
-author: "Jian W Dong"
-format: 
-  html:
-    toc: true
-    theme: united
-editor: visual
----
+# K-12 STEM-Focused Curriculum Checklist
 
-## Introduction
+[![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
-This document outlines an ambitious comprehensive, STEM-heavy curriculum roadmap from early childhood through 12th grade. The goal remains to prepare students to become first-principle independent thinkers, by building an intuitive understanding of the world, rooted in mathematics and the sciences. 
+> A comprehensive, ambitious STEM-heavy curriculum roadmap from early childhood through 12th grade, designed to prepare students to become first-principle independent thinkers with an intuitive understanding of the world, rooted in mathematics and the sciences.
 
+## 🎯 Purpose
+
+This work-in-progress curriculum checklist outlines a rigorous educational pathway that emphasizes:
+- **Strong mathematical foundations** with early mastery of arithmetic operations
+- **Hands-on scientific exploration** from the earliest ages
+- **Integration of technology** and computational thinking
+- **Systematic progression** through advanced topics including post-calculus mathematics
+- **Real-world applications** and engineering design thinking
+
+## 📚 How to Use This Curriculum
+
+- **For Educators**: Use as a reference for scope and sequence planning
+- **For Homeschoolers**: Follow as a comprehensive educational roadmap
+- **For Parents**: Understand learning objectives for each grade level
+- **For Students**: Track your progress through STEM concepts
+- **For Curriculum Developers**: Build upon or adapt for your own context
+
+
+## 📋 Curriculum Overview
+
+### Ages 2-5: Foundation Building Through Play
+### Elementary School: Building a Framework (Grades K-5)
+### Middle School: The Launchpad (Grades 6-8)
+### High School: The Apex (Grades 9-12)
 
 ---
 
@@ -49,13 +65,12 @@ This stage is about guided discovery and play-based learning. The goal is to bui
 - [ ] Gross and fine motor skill development through building, drawing, and outdoor play.
 
 ### 🗣️ Language
-- [ ] **English:** Focus on reading and writing alphabets and numbers. 
+- [ ] **English:** Focus on reading and writing alphabets and numbers.
 - [ ] Letter recognition (ABCs), phonics, and sight words.
 - [ ] Introduction to basic grammar and punctuation.
 - [ ] **Additional Language is crucial:** Exposure to other languages like Chinese through songs, stories, and basic vocabulary.
 
 ---
-
 
 # Elementary School: Building a Framework (Grades K-5)
 
@@ -113,6 +128,7 @@ This era focuses on building causal thinking and scientific reasoning, alongside
 - [ ] **Building Challenges:** Design structures with blocks to solve problems
 - [ ] **Digital Tools:** Use age-appropriate educational software and tablets
 
+---
 
 ## Grade 1: Building Number Fluency & Scientific Thinking
 
@@ -162,6 +178,7 @@ This era focuses on building causal thinking and scientific reasoning, alongside
 - [ ] **Material Properties:** Test materials for strength, flexibility, absorbency
 - [ ] **Digital Research:** Use kid-friendly search engines with supervision
 
+---
 
 ## Grade 2: Advancing Operations & Deeper Investigation
 
@@ -218,6 +235,7 @@ This era focuses on building causal thinking and scientific reasoning, alongside
 - [ ] **Simple Programming:** Introduction to coding concepts through block-based programming
 - [ ] **Digital Citizenship:** Safe and responsible technology use
 
+---
 
 ## Grade 3: Multiplication/Division & Scientific Method
 
@@ -275,6 +293,7 @@ This era focuses on building causal thinking and scientific reasoning, alongside
 - [ ] **Data Collection Tools:** Use digital tools to collect and analyze data
 - [ ] **Beginning Spreadsheets:** Enter data and create simple charts
 
+---
 
 ## Grade 4: Advanced Operations & Systems Thinking
 
@@ -333,6 +352,7 @@ This era focuses on building causal thinking and scientific reasoning, alongside
 - [ ] **Data Analysis:** Use spreadsheets for calculations and graphing
 - [ ] **Digital Presentations:** Create multimedia presentations of findings
 
+---
 
 ## Grade 5: Pre-Algebra Readiness & Integrated Science
 
@@ -423,6 +443,7 @@ This era focuses on building causal thinking and scientific reasoning, alongside
 
 Focus shifts to abstract thinking, solidifying algebraic foundations, and formalizing scientific principles.
 
+---
 
 ## Grade 6: Advanced Pre-Algebra & Earth Science Foundation
 
@@ -484,6 +505,7 @@ Focus shifts to abstract thinking, solidifying algebraic foundations, and formal
 - [ ] **Modeling:** Create computer models of Earth processes (erosion, plate movement)
 - [ ] **Research Skills:** Evaluate credibility of online scientific sources
 
+---
 
 ## Grade 7: Algebra I & Life Science Deep Dive
 
@@ -551,6 +573,7 @@ Focus shifts to abstract thinking, solidifying algebraic foundations, and formal
 - [ ] **Data Analysis:** Statistical analysis of ecological data using spreadsheets
 - [ ] **Virtual Labs:** Conduct virtual dissections and microscopy
 
+---
 
 ## Grade 8: Geometry & Physical Science
 
@@ -635,9 +658,9 @@ Focus shifts to abstract thinking, solidifying algebraic foundations, and formal
 
 ---
 
-## High School: The Apex (Grades 9-12)
+# High School: The Apex (Grades 9-12)
 
-A rigorous, integrated sequence of courses, rooted in rigorous mathematics. Dual enrollment will likely be required for post-AP math.
+A rigorous, integrated sequence of courses. Dual enrollment will likely be required for post-AP math.
 
 ### Grade 9: The Transition
 - [ ] **Mathematics:** Algebra II
@@ -665,3 +688,37 @@ A rigorous, integrated sequence of courses, rooted in rigorous mathematics. Dual
 #### Science: Advanced Applications
 - [ ] **AP Physics C:** Electricity and Magnetism
 - [ ] **Advanced Science Elective:** Based on interest, such as Organic Chemistry or Genetics.
+
+---
+
+## 🤝 Contributing
+
+This curriculum is open for community input and improvement. Ways to contribute:
+
+- **Submit Issues**: Report errors, suggest improvements, or propose new topics
+- **Pull Requests**: Submit specific content additions or corrections
+- **Discussions**: Share experiences implementing parts of this curriculum
+- **Translations**: Help translate this curriculum into other languages
+
+## 📞 Questions & Support
+
+- **Educational Consultations**: Contact for curriculum implementation guidance
+- **Adaptations**: Suggestions for adapting to different educational contexts
+- **Assessment Tools**: Development of assessment rubrics and evaluation methods
+
+## 📄 License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+[![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+**You are free to:**
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material for any purpose, even commercially
+
+**Under the following terms:**
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+## 🎯 About the Author
+
+**Jian W Dong, MD, MS** - Physician, data scientist, and father of 2 young budding first-principle thinkers. Passionate about STEM education.
