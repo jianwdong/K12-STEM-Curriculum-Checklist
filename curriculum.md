@@ -4,14 +4,16 @@
 
 > A comprehensive, ambitious STEM-heavy curriculum roadmap from early childhood through 12th grade, designed to prepare students to become first-principle independent thinkers with an intuitive understanding of the world, rooted in mathematics and the sciences.
 
-## 🎯 Purpose
+## 🎯 Objective
 
 This work-in-progress curriculum checklist outlines a rigorous educational pathway that emphasizes:
 - **Strong mathematical foundations** with early mastery of arithmetic operations
-- **Hands-on scientific exploration** from the earliest ages
-- **Integration of technology** and computational thinking
-- **Systematic progression** through advanced topics including post-calculus mathematics
-- **Real-world applications** and engineering design thinking
+- **Scientific exploration** from the earliest ages.
+- **Building an intuitive understanding of how the world works.**
+
+
+## 🤔 Why Use a Curriculum Checklist?
+In a world of rapidly advancing technology and complex challenges, the ability to think critically and solve problems from the ground up is more valuable than ever. Depending on the school or availability of classes, standard educational pathways may leave students with a fragmented collection of facts rather than a cohesive framework for understanding. This curriculum is designed to ensure your kid stays competitive no matter where they are. It empowers you to take control of your child's learning journey. 
 
 ## 📚 How to Use This Curriculum
 
