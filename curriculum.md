@@ -49,7 +49,7 @@ This stage is about guided discovery and play-based learning. The goal is to bui
 - [ ] Gross and fine motor skill development through building, drawing, and outdoor play.
 
 ### 🗣️ Language
-- [ ] **English:** Focus on reading and writing alphabets and numbers. I
+- [ ] **English:** Focus on reading and writing alphabets and numbers. 
 - [ ] Letter recognition (ABCs), phonics, and sight words.
 - [ ] Introduction to basic grammar and punctuation.
 - [ ] **Additional Language is crucial:** Exposure to other languages like Chinese through songs, stories, and basic vocabulary.
