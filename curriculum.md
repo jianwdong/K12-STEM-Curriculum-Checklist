@@ -113,7 +113,6 @@ This era focuses on building causal thinking and scientific reasoning, alongside
 - [ ] **Building Challenges:** Design structures with blocks to solve problems
 - [ ] **Digital Tools:** Use age-appropriate educational software and tablets
 
----
 
 ## Grade 1: Building Number Fluency & Scientific Thinking
 
@@ -163,7 +162,6 @@ This era focuses on building causal thinking and scientific reasoning, alongside
 - [ ] **Material Properties:** Test materials for strength, flexibility, absorbency
 - [ ] **Digital Research:** Use kid-friendly search engines with supervision
 
----
 
 ## Grade 2: Advancing Operations & Deeper Investigation
 
@@ -220,7 +218,6 @@ This era focuses on building causal thinking and scientific reasoning, alongside
 - [ ] **Simple Programming:** Introduction to coding concepts through block-based programming
 - [ ] **Digital Citizenship:** Safe and responsible technology use
 
----
 
 ## Grade 3: Multiplication/Division & Scientific Method
 
@@ -278,7 +275,6 @@ This era focuses on building causal thinking and scientific reasoning, alongside
 - [ ] **Data Collection Tools:** Use digital tools to collect and analyze data
 - [ ] **Beginning Spreadsheets:** Enter data and create simple charts
 
----
 
 ## Grade 4: Advanced Operations & Systems Thinking
 
@@ -337,7 +333,6 @@ This era focuses on building causal thinking and scientific reasoning, alongside
 - [ ] **Data Analysis:** Use spreadsheets for calculations and graphing
 - [ ] **Digital Presentations:** Create multimedia presentations of findings
 
----
 
 ## Grade 5: Pre-Algebra Readiness & Integrated Science
 
@@ -428,7 +423,6 @@ This era focuses on building causal thinking and scientific reasoning, alongside
 
 Focus shifts to abstract thinking, solidifying algebraic foundations, and formalizing scientific principles.
 
----
 
 ## Grade 6: Advanced Pre-Algebra & Earth Science Foundation
 
@@ -490,7 +484,6 @@ Focus shifts to abstract thinking, solidifying algebraic foundations, and formal
 - [ ] **Modeling:** Create computer models of Earth processes (erosion, plate movement)
 - [ ] **Research Skills:** Evaluate credibility of online scientific sources
 
----
 
 ## Grade 7: Algebra I & Life Science Deep Dive
 
@@ -558,7 +551,6 @@ Focus shifts to abstract thinking, solidifying algebraic foundations, and formal
 - [ ] **Data Analysis:** Statistical analysis of ecological data using spreadsheets
 - [ ] **Virtual Labs:** Conduct virtual dissections and microscopy
 
----
 
 ## Grade 8: Geometry & Physical Science
 
