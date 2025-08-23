@@ -11,14 +11,20 @@ This work-in-progress curriculum checklist outlines a rigorous educational pathw
 - **Scientific exploration** from the earliest ages.
 - **Building an intuitive understanding of how the world works.**
 
+If your kid follows this path diligently, they will be ready for the 22th century. 
 
 ## 🤔 Why Use a Curriculum Checklist?
-In a world of rapidly advancing technology and complex challenges, the ability to think critically and solve problems from the ground up is more valuable than ever. Depending on the school or availability of classes, standard educational pathways may leave students with a fragmented collection of facts rather than a cohesive framework for understanding. This curriculum is designed to ensure your kid stays competitive no matter where they are. It empowers you to take control of your child's learning journey. 
+Because you want to be proactive and take matter into your own hands. Just because your kid's school suck does not mean their education has to. Be involve in your kid's education. Parental influence matters.
 
 ## 📚 How to Use This Curriculum
 
-This curriculum is best used as a checklist for parents to ensure their child are educated to the highest standards. Educated parents can homeschool any topics not covered by the school curriculum. 
+This independent curriculum is best used as a checklist for parents to ensure their child are educated to the highest standards. Educated parents can easily supplement any topics not covered by the school curriculum. 
 
+## 🎯 About the Author
+
+I am a physician, data scientist, and father of 2 young budding first-principle thinkers. As an immigrant kid in Chinatown, NYC, I grew up without any money, guidance, or connections. My single mom was too busy working at the garment sweatshop and I had to teach myself many things outside my school curriculum to make myself competitive for the best universities. I attended NYC public schools from grade 1 to 12, and went on to attend college at Columbia University where I graduated with high honors in Mechanical Engineering. I then obtained my medical degree at NYU, and did my radiology residency at Harvard. While practicing as a radiologist, along the way I got a master of science in Data Science from UT Austin. I feel very qualified to help kids succeed academically.
+
+In the words of Mark Twain, I never let my schooling interfere with my education. Neither should you.
 
 ## 📋 Curriculum Overview
 
@@ -709,6 +715,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 **Under the following terms:**
 - Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
 
-## 🎯 About the Author
 
-**Jian W Dong, MD, MS** - Physician, data scientist, and father of 2 young budding first-principle thinkers. Passionate about STEM education.
