@@ -17,11 +17,7 @@ In a world of rapidly advancing technology and complex challenges, the ability t
 
 ## 📚 How to Use This Curriculum
 
-- **For Educators**: Use as a reference for scope and sequence planning
-- **For Homeschoolers**: Follow as a comprehensive educational roadmap
-- **For Parents**: Understand learning objectives for each grade level
-- **For Students**: Track your progress through STEM concepts
-- **For Curriculum Developers**: Build upon or adapt for your own context
+This curriculum is best used as a checklist for parents to ensure their child are educated to the highest standards. Educated parents can homeschool any topics not covered by the school curriculum. 
 
 
 ## 📋 Curriculum Overview
