@@ -58,11 +58,11 @@ This stage is mostly about guided discovery and play-based learning. The goal is
 #### Electricity and Magnetism
 - [ ] Building simple parallel vs. serial circuits with snap-together kits.
 - [ ] Playing with magnets to understand attraction and repulsion.
-- [ ] Understanding the concept of a power source like a battery.
+- [ ] Lighting a small light bulb with a battery (be careful!)
 
 #### Chemical, Biological, & Motor Skills
 - [ ] Simple kitchen chemistry (mixing ingredients, observing reactions like baking soda and vinegar).
-- [ ] Phases of elements. Example: Ice, water, steam.
+- [ ] Introducingn the phases of elements and compounds. Example: Ice, water, steam.
 - [ ] Gross and fine motor skill development through building, drawing, and outdoor play.
 
 ### 🗣️ Language
