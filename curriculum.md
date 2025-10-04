@@ -2,29 +2,24 @@
 
 [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
-> A comprehensive, ambitious STEM-heavy curriculum roadmap from early childhood through 12th grade, designed to prepare students to become first-principle independent thinkers with an intuitive understanding of the world, rooted in mathematics and the sciences.
+> A comprehensive and ambitious STEM-heavy curriculum roadmap from early childhood through 12th grade, designed to prepare students to become first-principle and independent thinkers.
 
 ## 🎯 Objective
 
-This work-in-progress curriculum checklist outlines a rigorous educational pathway that emphasizes:
-- **Strong mathematical foundations** with early mastery of arithmetic operations
-- **Scientific exploration** from the earliest ages.
-- **Building an intuitive understanding of how the world works.**
+This work-in-progress curriculum checklist will be continually updated; it outlines a rigorous educational pathway that emphasizes:
+- **Strong mathematical foundations**
+- **Scientific exploration** from the earliest ages. 
 
-If your kid follows this path diligently, they will be ready for the 22th century. 
-
-## 🤔 Why Use a Curriculum Checklist?
-Because you want to be proactive and take matter into your own hands. Just because your kid's school suck does not mean their education has to. Be involve in your kid's education. Parental influence matters.
 
 ## 📚 How to Use This Curriculum
 
-This independent curriculum is best used as a checklist for parents to ensure their child are educated to the highest standards. Educated parents can easily supplement any topics not covered by the school curriculum. 
+This independent curriculum is best used as a checklist for parents to ensure their child are adequately educated. It helps identify weaknesses and blind spots, allowing for early intervention. Parents can supplement any topics not covered by their kid's school curriculum. 
 
 ## 🎯 About the Author
 
-I am a physician, data scientist, and father of 2 young budding first-principle thinkers. As an immigrant kid in Chinatown, NYC, I grew up without any money, guidance, or connections. My single mom was too busy working at the garment sweatshop and I had to teach myself many things outside my school curriculum to make myself competitive for the best universities. I attended NYC public schools from grade 1 to 12, and went on to attend college at Columbia University where I graduated with high honors in Mechanical Engineering. I then obtained my medical degree at NYU, and did my radiology residency at Harvard. While practicing as a radiologist, along the way I got a master of science in Data Science from UT Austin. I feel very qualified to help kids succeed academically.
+I am a physician, data scientist, and father of 2 kids. I attended NYC public schools from grade 1 to 12, and went on to attend college at Columbia University where I graduated with high honors in Mechanical Engineering. I then obtained my medical degree at NYU, and did my radiology residency at Harvard. While practicing as a radiologist, along the way I got a master of science in Data Science from UT Austin. I feel very qualified to help kids succeed academically.
 
-In the words of Mark Twain, I never let my schooling interfere with my education. Neither should you.
+In the words of Mark Twain, I never let my schooling interfere with my education.
 
 ## 📋 Curriculum Overview
 
