@@ -17,7 +17,7 @@ This independent curriculum is best used as a checklist for parents to ensure th
 
 ## 🎯 About the Author
 
-I am a physician, data scientist, and father of 2 kids. I attended NYC public schools from grade 1 to 12, and went on to attend college at Columbia University where I graduated with high honors in Mechanical Engineering. I then obtained my medical degree at NYU, and did my radiology residency at Harvard. While practicing as a radiologist, along the way I got a master of science in Data Science from UT Austin. I feel very qualified to help kids succeed academically.
+I am a physician, data scientist, and father of 2 kids. I attended NYC public schools from grade 1 to 12, and went on to attend college at Columbia University where I graduated with high honors in Mechanical Engineering. I then obtained my medical degree at NYU, and did my radiology residency at Harvard. While practicing as a radiologist, along the way I got a master of science in Data Science from UT Austin. 
 
 In the words of Mark Twain, I never let my schooling interfere with my education.
 
@@ -64,6 +64,11 @@ This stage is mostly about guided discovery and play-based learning. The goal is
 - [ ] Simple kitchen chemistry (mixing ingredients, observing reactions like baking soda and vinegar).
 - [ ] Introducingn the phases of elements and compounds. Example: Ice, water, steam.
 - [ ] Gross and fine motor skill development through building, drawing, and outdoor play.
+
+#### Computing
+- [ ] Recognizing letters and typing on the keyboard
+- [ ] Using the mouse
+- [ ] 
 
 ### 🗣️ Language
 - [ ] **English:** Focus on reading and writing alphabets and numbers.
