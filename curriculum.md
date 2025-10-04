@@ -37,7 +37,7 @@ This stage is mostly about guided discovery and play-based learning. The goal is
 ### ➗ Mathematics & Logic
 - [ ] **Counting & Arithmetic:** Rote counting in written and spoken form, one-to-one correspondence, simple addition, subtraction, and multiplication with physical objects.
 - [ ] **Geometry:** Identifying and describing shapes. Building 3D geometric shapes with blocks.
-- [ ] **Probability & Data:** Simple probability concepts (e.g., coin toss, dice, chance of pulling a specific color block from a bag). Sorting objects by attributes (color, size, shape).
+- [ ] **Probability & Data:** Simple probability concepts (e.g., coin toss and dice (be careful of small parts!), playing cards, chance of pulling a specific color block from a bag). Sorting objects by attributes (color, size, shape).
 
 ### 🔬 Science: Hands-On Exploration
 #### Nature: Plants and Animals, Weather
@@ -62,13 +62,13 @@ This stage is mostly about guided discovery and play-based learning. The goal is
 
 #### Chemical, Biological, & Motor Skills
 - [ ] Simple kitchen chemistry (mixing ingredients, observing reactions like baking soda and vinegar).
-- [ ] Introducingn the phases of elements and compounds. Example: Ice, water, steam.
+- [ ] Introducing the phases of elements and compounds. Example: Ice, water, steam.
 - [ ] Gross and fine motor skill development through building, drawing, and outdoor play.
 
 #### Computing
 - [ ] Recognizing letters and typing on the keyboard
 - [ ] Using the mouse
-- [ ] 
+- [ ] Introducing the proper typing technique
 
 ### 🗣️ Language
 - [ ] **English:** Focus on reading and writing alphabets and numbers.
@@ -80,8 +80,7 @@ This stage is mostly about guided discovery and play-based learning. The goal is
 
 # Elementary School: Building a Framework (Grades K-5)
 
-This era focuses on building causal thinking and scientific reasoning, alongside strong arithmetic skills that enable Advanced Pre-Algebra in Grade 6.
-
+This era focuses on building causal thinking and scientific reasoning, alongside strenghtening arithmetic skills.
 ---
 
 ## Kindergarten: Mathematical Foundations & Scientific Wonder
