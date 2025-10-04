@@ -23,26 +23,28 @@ In the words of Mark Twain, I never let my schooling interfere with my education
 
 ## 📋 Curriculum Overview
 
-### Ages 2-5: Foundation Building Through Play
-### Elementary School: Building a Framework (Grades K-5)
-### Middle School: The Launchpad (Grades 6-8)
-### High School: The Apex (Grades 9-12)
+### Toddler and Pre-School Years (Ages 2-5)
+### Elementary School (Grades K-5)
+### Middle School (Grades 6-8)
+### High School (Grades 9-12)
 
 ---
 
 ## Ages 2-5: Foundation Building Through Play
 
-This stage is about guided discovery and play-based learning. The goal is to build a physical intuition for concepts that will be formalized later.
+This stage is mostly about guided discovery and play-based learning. The goal is to build a physical intuition for concepts that will be formalized later.
 
 ### ➗ Mathematics & Logic
 - [ ] **Counting & Arithmetic:** Rote counting in written and spoken form, one-to-one correspondence, simple addition, subtraction, and multiplication with physical objects.
-- [ ] **Geometry:** Identifying and describing shapes. Building 3D structures with blocks.
-- [ ] **Probability & Data:** Simple probability concepts (e.g., coin toss, chance of pulling a specific color block from a bag). Sorting objects by attributes (color, size, shape).
+- [ ] **Geometry:** Identifying and describing shapes. Building 3D geometric shapes with blocks.
+- [ ] **Probability & Data:** Simple probability concepts (e.g., coin toss, dice, chance of pulling a specific color block from a bag). Sorting objects by attributes (color, size, shape).
 
 ### 🔬 Science: Hands-On Exploration
 #### Nature: Plants and Animals, Weather
-- [ ] Observing and identifying local animals and plants.
+- [ ] Observing and identifying common animals and plants.
 - [ ] Understanding life cycles (caterpillar to butterfly, seed to plant).
+- [ ] Understanding water cycles
+- [ ] Concept of Time: time of the day, days of the week, weeks, months, and seasons.
 - [ ] Distinguishing natural from human-made objects.
 
 #### Mechanical
