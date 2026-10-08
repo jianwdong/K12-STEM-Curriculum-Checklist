@@ -840,6 +840,7 @@ The goal is to reach mathematical maturity, conduct original inquiry, and build 
 - [ ] **Data Science:** Pandas, NumPy, Matplotlib, Seaborn. First machine learning model (scikit-learn)
 
 ---
+
 ## Grade 11: The AP Push
 
 ### ➗ Mathematics: AP Calculus BC Curriculum
